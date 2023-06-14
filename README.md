@@ -1,4 +1,4 @@
-# University of Helsinki - Full Stack Open
+# University of Helsinki - Full Stack Open 2023
 
 ### Certificates:
 
