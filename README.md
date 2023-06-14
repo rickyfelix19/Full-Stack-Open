@@ -2,15 +2,15 @@
 
 ### Certificates:
 
-Certificates of completion Full Stack Web Development **IN PROGRESS**
-~~Certificates of completion Full Stack Web extensions 1~~
-~~Certificates of completion Full Stack Web extensions 2~~
-~~Certificate of completion GraphQL~~
-~~Certificate of completion Typescript~~
-~~Certificate of completion React Native~~
-~~Certificate of completion CI/CD~~
-~~Certificate of completion Containers~~
-~~Certificate of completion Relational databases~~
+    - Certificates of completion Full Stack Web Development **IN PROGRESS**
+    - ~~Certificates of completion Full Stack Web extensions 1~~
+    - ~~Certificates of completion Full Stack Web extensions 2~~
+    - ~~Certificate of completion GraphQL~~
+    - ~~Certificate of completion Typescript~~
+    - ~~Certificate of completion React Native~~
+    - ~~Certificate of completion CI/CD~~
+    - ~~Certificate of completion Containers~~
+    - ~~Certificate of completion Relational databases~~
 
 ### About the course
 
